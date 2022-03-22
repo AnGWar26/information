@@ -1,0 +1,10 @@
+name: information
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - beautifulsoup4
+  - networkx
+  - pandas
+  - wikipedia-api
